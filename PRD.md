@@ -15,8 +15,8 @@ The biggest risk is students lying because they want to be with their friends. W
 - Hall Admins
 
 ## 5. Features
-- 
-- 
+- Room allocation
+- Roommates can be chosen by category
 
 ## 6. Success
-- 
+- 60%
