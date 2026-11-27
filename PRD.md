@@ -25,3 +25,6 @@ The biggest risk is students lying because they want to be with their friends. W
 
 ## 7. Success
 - 60%
+
+## 8. User Story
+As a student, I want to be able to study peacefully in my room. I want to be able to talk with everyone fairly.
